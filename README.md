@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 I’m currently learning: HTML, CSS and JavaScript.
+📚 QA Analyst | Tester | Software Engineer
