@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 QA Analyst | Tester | Software Engineer
+📚 QA Analyst | Tester | Automação de Testes (Cypress) | Testes E2E | Software Engineer
