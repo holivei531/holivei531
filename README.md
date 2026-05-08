@@ -1,18 +1,19 @@
-### Hey! 👋🏽
+# 💻✨ Hildebrando Junior — QA Engineer | Software Quality
 
-<!--
-**holivei531/holivei531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏽‍💻 Profissional da área de tecnologia com mais de 3 anos de experiência atuando em projetos de grande porte e ambientes de alta complexidade.
 
-Here are some ideas to get you started:
+🧪 QA & Testes de Software: testes funcionais, validação de regras de negócio, escrita de cenários e garantia da qualidade
+🤖 Automação de Testes: Cypress | Testes E2E | Estudos em automação
+☕ Backend: Java | Spring Boot
+🌐 Front-end: Angular | JavaScript | TypeScript
+📐 Qualidade de Software: análise crítica, documentação, evidências e resolução de problemas
+🤝 Trabalho colaborativo com times ágeis e stakeholders
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Foco atual
 
-📚 QA Analyst | Tester | Automação de Testes (Cypress) | Testes E2E | Software Engineer
+* Automação de testes com Cypress
+* Qualidade de software
+* Testes funcionais e E2E
+* Evolução contínua em QA Engineering
+
+💜 Apaixonado por tecnologia, qualidade de software e aprendizado contínuo.
